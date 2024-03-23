@@ -6,7 +6,7 @@ import os
 
 import pkg_resources
 
-STRUCTURE_FILE = "datalake_estructure.txt"
+STRUCTURE_FILE = "datalake_structure.txt"
 
 
 def get_datalake_dirs():
@@ -38,11 +38,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-        
-        
-        
-        
-        
-
