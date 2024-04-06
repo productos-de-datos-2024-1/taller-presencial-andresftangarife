@@ -1,0 +1,70 @@
+2024-04-06 07:30:40,009:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:30:40,009:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:30:40,017:INFO: * Restarting with stat
+2024-04-06 07:30:40,808:WARNING: * Debugger is active!
+2024-04-06 07:30:40,812:INFO: * Debugger PIN: 136-014-333
+2024-04-06 07:51:25,911:INFO: * Detected change in 'C:\\Users\\andre\\OneDrive - Universidad Nacional de Colombia\\Documentos\\Maestria\\Semestre 2\\Productos de Datos\\Talleres\\taller-presencial-andresftangarife\\src\\6b_api_server\\server.py', reloading
+2024-04-06 07:51:26,023:INFO: * Restarting with stat
+2024-04-06 07:51:26,862:WARNING: * Debugger is active!
+2024-04-06 07:51:26,865:INFO: * Debugger PIN: 136-014-333
+2024-04-06 07:52:00,619:INFO: * Detected change in 'C:\\Users\\andre\\OneDrive - Universidad Nacional de Colombia\\Documentos\\Maestria\\Semestre 2\\Productos de Datos\\Talleres\\taller-presencial-andresftangarife\\src\\6b_api_server\\server.py', reloading
+2024-04-06 07:52:00,731:INFO: * Restarting with stat
+2024-04-06 07:52:01,516:WARNING: * Debugger is active!
+2024-04-06 07:52:01,518:INFO: * Debugger PIN: 136-014-333
+2024-04-06 07:55:17,269:INFO:127.0.0.1 - - [06/Apr/2024 07:55:17] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:57:03,781:INFO:127.0.0.1 - - [06/Apr/2024 07:57:03] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:58:10,169:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:58:10,169:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:58:10,170:INFO: * Restarting with stat
+2024-04-06 07:58:10,914:WARNING: * Debugger is active!
+2024-04-06 07:58:10,917:INFO: * Debugger PIN: 136-014-333
+2024-04-06 07:58:58,405:INFO:127.0.0.1 - - [06/Apr/2024 07:58:58] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:01:41,648:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:01:48,342:INFO:Prediction: [1634722.1540859]
+2024-04-06 08:01:48,342:INFO:127.0.0.1 - - [06/Apr/2024 08:01:48] "POST / HTTP/1.1" 200 -
+2024-04-06 08:09:33,583:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:09:33,592:INFO:Prediction: [1634722.1540859]
+2024-04-06 08:09:33,592:INFO:127.0.0.1 - - [06/Apr/2024 08:09:33] "POST / HTTP/1.1" 200 -
+2024-04-06 08:20:27,949:INFO: * Detected change in 'C:\\Users\\andre\\OneDrive - Universidad Nacional de Colombia\\Documentos\\Maestria\\Semestre 2\\Productos de Datos\\Talleres\\taller-presencial-andresftangarife\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:20:28,160:INFO: * Restarting with stat
+2024-04-06 08:20:32,920:WARNING: * Debugger is active!
+2024-04-06 08:20:32,923:INFO: * Debugger PIN: 136-014-333
+2024-04-06 08:20:36,611:INFO: * Detected change in 'C:\\Users\\andre\\OneDrive - Universidad Nacional de Colombia\\Documentos\\Maestria\\Semestre 2\\Productos de Datos\\Talleres\\taller-presencial-andresftangarife\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:20:36,722:INFO: * Restarting with stat
+2024-04-06 08:20:37,498:WARNING: * Debugger is active!
+2024-04-06 08:20:37,500:INFO: * Debugger PIN: 136-014-333
+2024-04-06 08:24:03,334:INFO: * Detected change in 'C:\\Users\\andre\\OneDrive - Universidad Nacional de Colombia\\Documentos\\Maestria\\Semestre 2\\Productos de Datos\\Talleres\\taller-presencial-andresftangarife\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:24:03,451:INFO: * Restarting with stat
+2024-04-06 08:24:04,220:WARNING: * Debugger is active!
+2024-04-06 08:24:04,222:INFO: * Debugger PIN: 136-014-333
+2024-04-06 08:24:06,408:INFO: * Detected change in 'C:\\Users\\andre\\OneDrive - Universidad Nacional de Colombia\\Documentos\\Maestria\\Semestre 2\\Productos de Datos\\Talleres\\taller-presencial-andresftangarife\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:24:06,533:INFO: * Restarting with stat
+2024-04-06 08:24:07,325:WARNING: * Debugger is active!
+2024-04-06 08:24:07,328:INFO: * Debugger PIN: 136-014-333
+2024-04-06 08:24:19,765:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:24:26,068:INFO:Prediction: [1634722.1540859]
+2024-04-06 08:24:26,068:INFO:127.0.0.1 - - [06/Apr/2024 08:24:26] "POST / HTTP/1.1" 200 -
+2024-04-06 08:24:59,113:INFO: * Detected change in 'C:\\Users\\andre\\OneDrive - Universidad Nacional de Colombia\\Documentos\\Maestria\\Semestre 2\\Productos de Datos\\Talleres\\taller-presencial-andresftangarife\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:24:59,336:INFO: * Restarting with stat
+2024-04-06 08:25:00,196:WARNING: * Debugger is active!
+2024-04-06 08:25:00,199:INFO: * Debugger PIN: 136-014-333
+2024-04-06 08:25:01,267:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:25:01,897:INFO:Prediction: [1634722.1540859]
+2024-04-06 08:25:01,898:INFO:127.0.0.1 - - [06/Apr/2024 08:25:01] "POST / HTTP/1.1" 200 -
+2024-04-06 08:29:00,360:INFO: * Detected change in 'C:\\Users\\andre\\OneDrive - Universidad Nacional de Colombia\\Documentos\\Maestria\\Semestre 2\\Productos de Datos\\Talleres\\taller-presencial-andresftangarife\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:29:00,562:INFO: * Restarting with stat
+2024-04-06 08:29:01,301:WARNING: * Debugger is active!
+2024-04-06 08:29:01,304:INFO: * Debugger PIN: 136-014-333
+2024-04-06 08:29:40,982:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:29:41,603:INFO:Prediction: [1634722.1540859]
+2024-04-06 08:29:41,604:INFO:127.0.0.1 - - [06/Apr/2024 08:29:41] "POST / HTTP/1.1" 200 -
+2024-04-06 09:16:18,617:INFO:127.0.0.1 - - [06/Apr/2024 09:16:18] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:16:18,675:INFO:127.0.0.1 - - [06/Apr/2024 09:16:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 09:22:54,605:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:22:54,608:INFO:Prediction: [253195.82440612]
+2024-04-06 09:22:54,608:INFO:127.0.0.1 - - [06/Apr/2024 09:22:54] "POST / HTTP/1.1" 200 -
+2024-04-06 09:26:47,293:INFO:User values: {'bedrooms': [1], 'bathrooms': [1], 'sqft_living': [500], 'sqft_lot': [750], 'floors': [1], 'waterfront': [0], 'condition': [3]}
+2024-04-06 09:26:47,296:INFO:Prediction: [153230.83512657]
+2024-04-06 09:26:47,297:INFO:127.0.0.1 - - [06/Apr/2024 09:26:47] "POST / HTTP/1.1" 200 -
